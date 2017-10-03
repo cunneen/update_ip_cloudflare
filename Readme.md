@@ -1,4 +1,4 @@
-#Update CloudFlare DNS
+# Update CloudFlare DNS
 
 Updates a cloudflare DNS A record every time your IP address changes.
 
